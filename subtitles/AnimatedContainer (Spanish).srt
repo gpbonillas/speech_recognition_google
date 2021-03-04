@@ -1,0 +1,80 @@
+1
+00:00:01,840 --> 00:00:05,440
+WIDGET DE LA SEMANA
+
+2
+00:00:05,440 --> 00:00:07,621
+AnimatedContainer
+
+3
+00:00:07,634 --> 00:00:10,868
+Flutter tiene muchos <i>widgets</i> para ayudar con animaciones explícitas,
+
+4
+00:00:10,868 --> 00:00:13,076
+los que tú, como desarrollador, codificas.
+
+5
+00:00:13,076 --> 00:00:15,668
+Pero también hay <i>widgets</i> para animaciones implícitas,
+
+6
+00:00:15,667 --> 00:00:17,957
+los que animan los cambios por ti.
+
+7
+00:00:17,957 --> 00:00:20,655
+Uno que vale la pena conocer es <i>AnimatedContainer</i>.
+
+8
+00:00:20,655 --> 00:00:24,346
+Puedes crearlo la primera vez con un atributo particular, como el color.
+
+9
+00:00:24,347 --> 00:00:26,778
+Y cuando lo regeneres con un valor diferente,
+
+10
+00:00:26,778 --> 00:00:29,169
+digamos, en respuesta a una llamada a <i>setState</i>,
+
+11
+00:00:29,169 --> 00:00:32,057
+<i>AnimatedContainer</i> realizará una interpolación lineal
+
+12
+00:00:32,057 --> 00:00:33,385
+entre los dos valores.
+
+13
+00:00:33,384 --> 00:00:34,865
+Pero es más que solo colores.
+
+14
+00:00:34,865 --> 00:00:38,716
+Puedes animar contornos, radios de esquinas, imágenes de fondo,
+
+15
+00:00:38,716 --> 00:00:41,376
+sombras, gradientes, formas, rellenado, ancho, altura,
+
+16
+00:00:41,375 --> 00:00:43,434
+alineación, transformaciones y más.
+
+17
+00:00:43,435 --> 00:00:46,496
+La duración de la animación se controla con el parámetro duración,
+
+18
+00:00:46,496 --> 00:00:49,597
+y también puedes especificar tu curva para personalizar el efecto.
+
+19
+00:00:50,137 --> 00:00:53,138
+Hay varios <i>widgets</i> más para ayudar con animaciones implícitas.
+
+20
+00:00:53,139 --> 00:00:55,778
+Visita <i>flutter.io</i> para más información.
+

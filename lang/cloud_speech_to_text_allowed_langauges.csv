@@ -1,0 +1,282 @@
+﻿Name,BCP-47,Modelo,Puntuación automática,Identificación,Impulso,Confianza a nivel de palabra,Filtro de lenguaje obsceno
+Afrikáans (Sudáfrica),af-ZA,Comando y búsqueda,,,✔,,✔
+Afrikáans (Sudáfrica),af-ZA,Predeterminada,,,✔,,✔
+Albanés (Albania),sq-AL,Comando y búsqueda,,,,,✔
+Albanés (Albania),sq-AL,Predeterminada,,,,,✔
+Amárico (Etiopía),am-ET,Comando y búsqueda,,,,,✔
+Amárico (Etiopía),am-ET,Predeterminada,,,,,✔
+Árabe (Argelia),ar-DZ,Comando y búsqueda,,,,,✔
+Árabe (Argelia),ar-DZ,Predeterminada,,,,,✔
+Árabe (Baréin),ar-BH,Comando y búsqueda,,,✔,,✔
+Árabe (Baréin),ar-BH,Predeterminada,,,✔,,✔
+Árabe (Egipto),ar-EG,Comando y búsqueda,,,✔,,✔
+Árabe (Egipto),ar-EG,Predeterminada,,,✔,,✔
+Árabe (Irak),ar-IQ,Comando y búsqueda,,,✔,,✔
+Árabe (Irak),ar-IQ,Predeterminada,,,✔,,✔
+Árabe (Israel),ar-IL,Comando y búsqueda,,,✔,,✔
+Árabe (Israel),ar-IL,Predeterminada,,,✔,,✔
+Árabe (Jordania),ar-JO,Comando y búsqueda,,,✔,,✔
+Árabe (Jordania),ar-JO,Predeterminada,,,✔,,✔
+Árabe (Kuwait),ar-KW,Comando y búsqueda,,,✔,,✔
+Árabe (Kuwait),ar-KW,Predeterminada,,,✔,,✔
+Árabe (Líbano),ar-LB,Comando y búsqueda,,,✔,,✔
+Árabe (Líbano),ar-LB,Predeterminada,,,✔,,✔
+Árabe (Marruecos),ar-MA,Comando y búsqueda,,,,,✔
+Árabe (Marruecos),ar-MA,Predeterminada,,,,,✔
+Árabe (Omán),ar-OM,Comando y búsqueda,,,✔,,✔
+Árabe (Omán),ar-OM,Predeterminada,,,✔,,✔
+Árabe (Catar),ar-QA,Comando y búsqueda,,,✔,,✔
+Árabe (Catar),ar-QA,Predeterminada,,,✔,,✔
+Árabe (Arabia Saudita),ar-SA,Comando y búsqueda,,,✔,,✔
+Árabe (Arabia Saudita),ar-SA,Predeterminada,,,✔,,✔
+Árabe (Estado de Palestina),ar-PS,Comando y búsqueda,,,✔,,✔
+Árabe (Estado de Palestina),ar-PS,Predeterminada,,,✔,,✔
+Árabe (Túnez),ar-TN,Comando y búsqueda,,,,,✔
+Árabe (Túnez),ar-TN,Predeterminada,,,,,✔
+Árabe (Emiratos Árabes Unidos),ar-AE,Comando y búsqueda,,,✔,,✔
+Árabe (Emiratos Árabes Unidos),ar-AE,Predeterminada,,,✔,,✔
+Árabe (Yemen),ar-YE,Comando y búsqueda,,,,,✔
+Árabe (Yemen),ar-YE,Predeterminada,,,,,✔
+Armenio (Armenia),hy-AM,Comando y búsqueda,,,,,✔
+Armenio (Armenia),hy-AM,Predeterminada,,,,,✔
+Azerbaiyano (Azerbaiyán),az-AZ,Comando y búsqueda,,,,,✔
+Azerbaiyano (Azerbaiyán),az-AZ,Predeterminada,,,,,✔
+Vasco (España),eu-ES,Comando y búsqueda,,,,,✔
+Vasco (España),eu-ES,Predeterminada,,,,,✔
+Bengalí (Bangladés),bn-BD,Comando y búsqueda,,,✔,,✔
+Bengalí (Bangladés),bn-BD,Predeterminada,,,✔,,✔
+Bengalí (India),bn-IN,Comando y búsqueda,,,,,✔
+Bengalí (India),bn-IN,Predeterminada,,,,,✔
+Bosnio (Bosnia y Escocia),bs-BA,Comando y búsqueda,,,,,✔
+Bosnio (Bosnia y Escocia),bs-BA,Predeterminada,,,,,✔
+Búlgaro (Bulgaria),bg-BG,Comando y búsqueda,,,,,✔
+Búlgaro (Bulgaria),bg-BG,Predeterminada,,,,,✔
+Birmano (Birmania),my-MM,Comando y búsqueda,,,,,✔
+Birmano (Birmania),my-MM,Predeterminada,,,,,✔
+Catalán (España),ca-ES,Comando y búsqueda,,,,,✔
+Catalán (España),ca-ES,Predeterminada,,,,,✔
+"Chino, Cantonés (Tradicional Hong Kong)",yue-Hant-HK,Comando y búsqueda,,,✔,,✔
+"Chino, Cantonés (Tradicional Hong Kong)",yue-Hant-HK,Predeterminada,,,✔,,✔
+"Chino, Mandarín (Simplificado, China)",zh (cmn-Hans-CN),Comando y búsqueda,✔,✔,✔,,✔
+"Chino, Mandarín (Simplificado, China)",zh (cmn-Hans-CN),Predeterminada,✔,✔,✔,,✔
+"Chino, Mandarín (Tradicional, Taiwán)",zh-TW (cmn-Hant-TW),Comando y búsqueda,✔,,✔,,✔
+"Chino, Mandarín (Tradicional, Taiwán)",zh-TW (cmn-Hant-TW),Predeterminada,✔,,✔,,✔
+Croata (Croacia),hr-HR,Comando y búsqueda,,,,,✔
+Croata (Croacia),hr-HR,Predeterminada,,,,,✔
+Checo (República Checa),cs-CZ,Comando y búsqueda,✔,,✔,,✔
+Checo (República Checa),cs-CZ,Predeterminada,✔,,✔,,✔
+Danés (Dinamarca),da-DK,Comando y búsqueda,✔,,✔,,✔
+Danés (Dinamarca),da-DK,Predeterminada,✔,,✔,,✔
+Holandés (Bélgica),nl-BE,Comando y búsqueda,,,,,✔
+Holandés (Bélgica),nl-BE,Predeterminada,,,,,✔
+Holandés (Países Bajos),nl-NL,Comando y búsqueda,,,✔,,✔
+Holandés (Países Bajos),nl-NL,Predeterminada,,,✔,,✔
+Inglés (Australia),en-AU,Comando y búsqueda,✔,,✔,,✔
+Inglés (Australia),en-AU,Predeterminada,✔,,✔,,✔
+Inglés (Canadá),en-CA,Comando y búsqueda,,,,,✔
+Inglés (Canadá),en-CA,Predeterminada,,,,,✔
+Inglés (Ghana),en-GH,Comando y búsqueda,,,✔,,✔
+Inglés (Ghana),en-GH,Predeterminada,,,✔,,✔
+Inglés (Hong Kong),en-HK,Comando y búsqueda,,,,,✔
+Inglés (Hong Kong),en-HK,Predeterminada,,,,,✔
+Inglés (India),en-IN,Comando y búsqueda,✔,✔,✔,,✔
+Inglés (India),en-IN,Predeterminada,✔,✔,✔,,✔
+Inglés (Irlanda),en-IE,Comando y búsqueda,,,,,✔
+Inglés (Irlanda),en-IE,Predeterminada,,,,,✔
+Inglés (Kenia),en-KE,Comando y búsqueda,,,✔,,✔
+Inglés (Kenia),en-KE,Predeterminada,,,✔,,✔
+Inglés (Nueva Zelanda),en-NZ,Comando y búsqueda,,,,,✔
+Inglés (Nueva Zelanda),en-NZ,Predeterminada,,,,,✔
+Inglés (Nigeria),en-NG,Comando y búsqueda,,,✔,,✔
+Inglés (Nigeria),en-NG,Predeterminada,,,✔,,✔
+Inglés (Pakistán),en-PK,Comando y búsqueda,,,,,✔
+Inglés (Pakistán),en-PK,Predeterminada,,,,,✔
+Inglés (Filipinas),en-PH,Comando y búsqueda,,,✔,,✔
+Inglés (Filipinas),en-PH,Predeterminada,,,✔,,✔
+Inglés (Singapur),en-SG,Comando y búsqueda,✔,✔,✔,✔,✔
+Inglés (Singapur),en-SG,Predeterminada,✔,✔,✔,✔,✔
+Inglés (Sudáfrica),en-ZA,Comando y búsqueda,,,✔,,✔
+Inglés (Sudáfrica),en-ZA,Predeterminada,,,✔,,✔
+Inglés (Tanzania),en-TZ,Comando y búsqueda,,,✔,,✔
+Inglés (Tanzania),en-TZ,Predeterminada,,,✔,,✔
+Inglés (Reino Unido),en-GB,Comando y búsqueda,✔,✔,✔,,✔
+Inglés (Reino Unido),en-GB,Predeterminada,✔,✔,✔,,✔
+Inglés (Reino Unido),en-GB,Llamada telefónica mejorada,✔,✔,✔,,✔
+Inglés (Reino Unido),en-GB,Llamada telefónica,✔,✔,✔,,✔
+Inglés (Estados Unidos),en-US,Comando y búsqueda,✔,✔,✔,✔,✔
+Inglés (Estados Unidos),en-US,Predeterminada,✔,✔,✔,✔,✔
+Inglés (Estados Unidos),en-US,Llamada telefónica mejorada,✔,✔,✔,✔,✔
+Inglés (Estados Unidos),en-US,Vídeo mejorado,✔,✔,✔,✔,✔
+Inglés (Estados Unidos),en-US,Llamada telefónica,✔,✔,✔,✔,✔
+Estonio (Estonia),et-EE,Comando y búsqueda,,,,,✔
+Estonio (Estonia),et-EE,Predeterminada,,,,,✔
+Filipino (Filipinas),fil-PH,Comando y búsqueda,,,✔,,✔
+Filipino (Filipinas),fil-PH,Predeterminada,,,✔,,✔
+Finés (Finlandia),fi-FI,Comando y búsqueda,✔,,✔,,✔
+Finés (Finlandia),fi-FI,Predeterminada,✔,,✔,,✔
+Francés (Bélgica),fr-BE,Comando y búsqueda,,,,,✔
+Francés (Bélgica),fr-BE,Predeterminada,,,,,✔
+Francés (Canadá),fr-CA,Comando y búsqueda,,,✔,,✔
+Francés (Canadá),fr-CA,Predeterminada,,,✔,,✔
+Francés (Francia),fr-FR,Comando y búsqueda,✔,✔,✔,,✔
+Francés (Francia),fr-FR,Predeterminada,✔,✔,✔,,✔
+Francés (Suiza),fr-CH,Comando y búsqueda,,,,,✔
+Francés (Suiza),fr-CH,Predeterminada,,,,,✔
+Gallego (España),gl-ES,Comando y búsqueda,,,,,✔
+Gallego (España),gl-ES,Predeterminada,,,,,✔
+Georgiano (Georgia),ka-GE,Comando y búsqueda,,,,,✔
+Georgiano (Georgia),ka-GE,Predeterminada,,,,,✔
+Alemán (Austria),de_AT,Comando y búsqueda,,,,,✔
+Alemán (Austria),de_AT,Predeterminada,,,,,✔
+Alemán (Alemania),de-DE,Comando y búsqueda,✔,✔,✔,,✔
+Alemán (Alemania),de-DE,Predeterminada,✔,✔,✔,,✔
+Alemán (Suiza),de-CH,Comando y búsqueda,,,,,✔
+Alemán (Suiza),de-CH,Predeterminada,,,,,✔
+Griego (Grecia),el-GR,Comando y búsqueda,,,,,✔
+Griego (Grecia),el-GR,Predeterminada,,,,,✔
+Guyaratí (India),gu-IN,Comando y búsqueda,,,✔,,✔
+Guyaratí (India),gu-IN,Predeterminada,,,✔,,✔
+Hebreo (Israel),iw-IL,Comando y búsqueda,,,✔,,✔
+Hebreo (Israel),iw-IL,Predeterminada,,,✔,,✔
+Hindi (India),hi-IN,Comando y búsqueda,,,✔,,✔
+Hindi (India),hi-IN,Predeterminada,,,✔,,✔
+Húngaro (Hungría),hu-HU,Comando y búsqueda,,,,,✔
+Húngaro (Hungría),hu-HU,Predeterminada,,,,,✔
+Islandés (Islandia),is-IS,Comando y búsqueda,,,,,✔
+Islandés (Islandia),is-IS,Predeterminada,,,,,✔
+Indonesio (Indonesia),id-ID,Comando y búsqueda,✔,,✔,,✔
+Indonesio (Indonesia),id-ID,Predeterminada,✔,,✔,,✔
+Italiano (Italia),it-IT,Comando y búsqueda,✔,✔,✔,,✔
+Italiano (Italia),it-IT,Predeterminada,✔,✔,✔,,✔
+Italiano (Suiza),it-CH,Comando y búsqueda,,,,,✔
+Italiano (Suiza),it-CH,Predeterminada,,,,,✔
+Japonés (Japón),ja-JP,Comando y búsqueda,✔,✔,✔,,✔
+Japonés (Japón),ja-JP,Predeterminada,✔,✔,✔,,✔
+Javanés (Indonesia),jv-ID,Comando y búsqueda,,,,,✔
+Javanés (Indonesia),jv-ID,Predeterminada,,,,,✔
+Canarés (India),kn-IN,Comando y búsqueda,,,✔,,✔
+Canarés (India),kn-IN,Predeterminada,,,✔,,✔
+Jemer (Camboya),km-KH,Comando y búsqueda,,,,,✔
+Jemer (Camboya),km-KH,Predeterminada,,,,,✔
+Coreano (Corea del Sur),ko-KR,Comando y búsqueda,✔,,✔,,✔
+Coreano (Corea del Sur),ko-KR,Predeterminada,✔,,✔,,✔
+Lao (Laos),lo-LA,Comando y búsqueda,,,,,✔
+Lao (Laos),lo-LA,Predeterminada,,,,,✔
+Letón (Letonia),lv-LV,Comando y búsqueda,,,,,✔
+Letón (Letonia),lv-LV,Predeterminada,,,,,✔
+Lituano (Lituania),lt-LT,Comando y búsqueda,,,,,✔
+Lituano (Lituania),lt-LT,Predeterminada,,,,,✔
+Macedonio (Macedonia del Norte),mk-MK,Comando y búsqueda,,,,,✔
+Macedonio (Macedonia del Norte),mk-MK,Predeterminada,,,,,✔
+Malayo (Malasia),ms-MY,Comando y búsqueda,,,✔,,✔
+Malayo (Malasia),ms-MY,Predeterminada,,,✔,,✔
+Malabar (India),ml-IN,Comando y búsqueda,,,✔,,✔
+Malabar (India),ml-IN,Predeterminada,,,✔,,✔
+Maratí (India),mr-IN,Comando y búsqueda,,,✔,,✔
+Maratí (India),mr-IN,Predeterminada,,,✔,,✔
+Mongol (Mongolia),mn-MN,Comando y búsqueda,,,,,✔
+Mongol (Mongolia),mn-MN,Predeterminada,,,,,✔
+Nepalí (Nepal),ne-NP,Comando y búsqueda,,,,,✔
+Nepalí (Nepal),ne-NP,Predeterminada,,,,,✔
+"Noruego, Bokmål (Noruega)",no-NO,Comando y búsqueda,,,✔,,✔
+"Noruego, Bokmål (Noruega)",no-NO,Predeterminada,,,✔,,✔
+Persa (Irán),fa-IR,Comando y búsqueda,,,✔,,✔
+Persa (Irán),fa-IR,Predeterminada,,,✔,,✔
+Polaco (Polonia),pl-PL,Comando y búsqueda,,,✔,,✔
+Polaco (Polonia),pl-PL,Predeterminada,,,✔,,✔
+Portugués (Brasil),pt-BR,Comando y búsqueda,,✔,✔,,✔
+Portugués (Brasil),pt-BR,Predeterminada,,✔,✔,,✔
+Portugués (Portugal),pt-PT,Comando y búsqueda,,,✔,,✔
+Portugués (Portugal),pt-PT,Predeterminada,,,✔,,✔
+"Panyabí (Gurmukhi, India)",pa-Guru-IN,Comando y búsqueda,,,,,✔
+"Panyabí (Gurmukhi, India)",pa-Guru-IN,Predeterminada,,,,,✔
+Rumano (Rumania),ro-RO,Comando y búsqueda,,,,,✔
+Rumano (Rumania),ro-RO,Predeterminada,,,,,✔
+Ruso (Rusia),ru-RU,Comando y búsqueda,,✔,✔,,✔
+Ruso (Rusia),ru-RU,Predeterminada,,✔,✔,,✔
+Ruso (Rusia),ru-RU,Llamada telefónica mejorada,,✔,✔,,✔
+Ruso (Rusia),ru-RU,Llamada telefónica,,✔,✔,,✔
+Serbio (Serbia),sr-RS,Comando y búsqueda,,,✔,,✔
+Serbio (Serbia),sr-RS,Predeterminada,,,✔,,✔
+Cingalés (Sri Lanka),si-LK,Comando y búsqueda,,,,,✔
+Cingalés (Sri Lanka),si-LK,Predeterminada,,,,,✔
+Eslovaco (Eslovaquia),sk-SK,Comando y búsqueda,,,,,✔
+Eslovaco (Eslovaquia),sk-SK,Predeterminada,,,,,✔
+Esloveno (Eslovenia),sl-SI,Comando y búsqueda,,,,,✔
+Esloveno (Eslovenia),sl-SI,Predeterminada,,,,,✔
+Español (Argentina),es-AR,Comando y búsqueda,,,,,✔
+Español (Argentina),es-AR,Predeterminada,,,,,✔
+Español (Bolivia),es-BO,Comando y búsqueda,,,,,✔
+Español (Bolivia),es-BO,Predeterminada,,,,,✔
+Español (Chile),es-CL,Comando y búsqueda,,,,,✔
+Español (Chile),es-CL,Predeterminada,,,,,✔
+Español (Colombia),es-CO,Comando y búsqueda,,,,,✔
+Español (Colombia),es-CO,Predeterminada,,,,,✔
+Español (Costa Rica),es-CR,Comando y búsqueda,,,,,✔
+Español (Costa Rica),es-CR,Predeterminada,,,,,✔
+Español (República Dominicana),es-DO,Comando y búsqueda,,,,,✔
+Español (República Dominicana),es-DO,Predeterminada,,,,,✔
+Español (Ecuador),es-EC,Comando y búsqueda,,,,,✔
+Español (Ecuador),es-EC,Predeterminada,,,,,✔
+Español (El Salvador),es-SV,Comando y búsqueda,,,,,✔
+Español (El Salvador),es-SV,Predeterminada,,,,,✔
+Español (Guatemala),es-GT,Comando y búsqueda,,,,,✔
+Español (Guatemala),es-GT,Predeterminada,,,,,✔
+Español (Honduras),es-HN,Comando y búsqueda,,,,,✔
+Español (Honduras),es-HN,Predeterminada,,,,,✔
+Español (México),es-MX,Comando y búsqueda,,,,,✔
+Español (México),es-MX,Predeterminada,,,,,✔
+Español (Nicaragua),es-NI,Comando y búsqueda,,,,,✔
+Español (Nicaragua),es-NI,Predeterminada,,,,,✔
+Español (Panamá),es-PA,Comando y búsqueda,,,,,✔
+Español (Panamá),es-PA,Predeterminada,,,,,✔
+Español (Paraguay),es-PY,Comando y búsqueda,,,,,✔
+Español (Paraguay),es-PY,Predeterminada,,,,,✔
+Español (Perú),es-PE,Comando y búsqueda,,,,,✔
+Español (Perú),es-PE,Predeterminada,,,,,✔
+Español (Puerto Rico),es-PR,Comando y búsqueda,,,,,✔
+Español (Puerto Rico),es-PR,Predeterminada,,,,,✔
+Español (España),es-ES,Comando y búsqueda,,✔,✔,,✔
+Español (España),es-ES,Predeterminada,,✔,✔,,✔
+Español (Estados Unidos),es-US,Comando y búsqueda,✔,,✔,,✔
+Español (Estados Unidos),es-US,Predeterminada,✔,,✔,,✔
+Español (Estados Unidos),es-US,Llamada telefónica mejorada,✔,,✔,,✔
+Español (Estados Unidos),es-US,Llamada telefónica,✔,,✔,,✔
+Español (Uruguay),es-UY,Comando y búsqueda,,,,,✔
+Español (Uruguay),es-UY,Predeterminada,,,,,✔
+Español (Venezuela),es-VE,Comando y búsqueda,,,,,✔
+Español (Venezuela),es-VE,Predeterminada,,,,,✔
+Sondanés (Indonesia),su-ID,Comando y búsqueda,,,,,✔
+Sondanés (Indonesia),su-ID,Predeterminada,,,,,✔
+Suajili (Kenia),sw-KE,Comando y búsqueda,,,,,✔
+Suajili (Kenia),sw-KE,Predeterminada,,,,,✔
+Suajili (Tanzania),sw-TZ,Comando y búsqueda,,,,,✔
+Suajili (Tanzania),sw-TZ,Predeterminada,,,,,✔
+Sueco (Suecia),sv-SE,Comando y búsqueda,✔,,✔,,✔
+Sueco (Suecia),sv-SE,Predeterminada,✔,,✔,,✔
+Tamil (India),ta-IN,Comando y búsqueda,,,✔,,✔
+Tamil (India),ta-IN,Predeterminada,,,✔,,✔
+Tamil (Malasia),ta-MY,Comando y búsqueda,,,,,✔
+Tamil (Malasia),ta-MY,Predeterminada,,,,,✔
+Tamil (Singapur),ta-SG,Comando y búsqueda,,,,,✔
+Tamil (Singapur),ta-SG,Predeterminada,,,,,✔
+Tamil (Sri Lanka),ta-LK,Comando y búsqueda,,,,,✔
+Tamil (Sri Lanka),ta-LK,Predeterminada,,,,,✔
+Telugu (India),te-IN,Comando y búsqueda,,,✔,,✔
+Telugu (India),te-IN,Predeterminada,,,✔,,✔
+Tailandés (Tailandia),th-TH,Comando y búsqueda,,,✔,,✔
+Tailandés (Tailandia),th-TH,Predeterminada,,,✔,,✔
+Turco (Turquía),tr-TR,Comando y búsqueda,✔,,✔,,✔
+Turco (Turquía),tr-TR,Predeterminada,✔,,✔,,✔
+Ucraniano (Ucrania),uk-UA,Comando y búsqueda,,,✔,,✔
+Ucraniano (Ucrania),uk-UA,Predeterminada,,,✔,,✔
+Urdu (India),ur-IN,Comando y búsqueda,,,,,✔
+Urdu (India),ur-IN,Predeterminada,,,,,✔
+Urdu (Pakistán),ur-PK,Comando y búsqueda,,,✔,,✔
+Urdu (Pakistán),ur-PK,Predeterminada,,,✔,,✔
+Uzbeko (Uzbekistán),uz-UZ,Comando y búsqueda,,,,,✔
+Uzbeko (Uzbekistán),uz-UZ,Predeterminada,,,,,✔
+Vietnamita (Vietnam),vi-VN,Comando y búsqueda,,,✔,,✔
+Vietnamita (Vietnam),vi-VN,Predeterminada,,,✔,,✔
+Zulú (Sudáfrica),zu-ZA,Comando y búsqueda,,,✔,,✔
+Zulú (Sudáfrica),zu-ZA,Predeterminada,,,✔,,✔
